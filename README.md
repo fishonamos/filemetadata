@@ -2,6 +2,8 @@
 
 This Node.js backend project serves as a File Metadata Microservice, providing a simple and efficient way to obtain metadata information for uploaded files. This service can be used in various applications where file information is crucial, such as document management systems, file-sharing platforms, or any project that requires insights into uploaded files.
 
+Project Deployment Link: https://filemetadata24.glitch.me/
+
 ## Table of Contents
 - [Features](#features)
 - [Getting Started](#getting-started)
